@@ -14,3 +14,4 @@ export const ContextProvider = ({children}) => {
      </exampleContext.Provider>
   )
 }
+//context creado
